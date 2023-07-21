@@ -1,0 +1,40 @@
+.login_user {
+  /* Kiểu dáng cho body khi có class "login_user" */
+}
+
+.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-menu li {
+  display: inline-block;
+}
+
+.nav-menu li a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-menu li a:hover {
+  background-color: #555;
+}
+
+.search-box {
+  color: yellow;
+  font-weight: bolder;
+}
+
+.search-box input[type="date"],
+.search-box input[type="submit"] {
+  margin-left: 10px;
+}
+
+

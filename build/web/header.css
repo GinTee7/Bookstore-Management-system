@@ -1,0 +1,65 @@
+.body.header-login {
+  background-color: #f1f1f1;
+}
+
+.header {
+  background-image: url('images/background1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 2px;
+  color: #fff;
+  
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.navbar a:first-child {
+  margin-left: 0;
+}
+
+#logo {
+  width: 100px;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input[type="text"] {
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
+
+.search-bar select {
+  margin-left: 5px;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
+
+.search-bar button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.bx {
+  font-size: 20px;
+}
+
+

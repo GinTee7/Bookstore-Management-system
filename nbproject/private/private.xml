@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/mainController.java</file>
+            <file>file:/D:/PRJ301/BookStore/web/viewcart.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/dao/AccountDAO.java</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/deleteCartServlet.java</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/manageBooksServlet.java</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/dto/Book.java</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/dao/BookDAO.java</file>
+            <file>file:/D:/PRJ301/BookStore/web/personalPage.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/web/OrderDetail.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/web/changeProfile.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/deleteBookServlet.java</file>
+            <file>file:/D:/PRJ301/BookStore/web/viewBook.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/web/ManageBooks.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/orderAgainServlet.java</file>
+            <file>file:/D:/PRJ301/BookStore/src/java/sample/servlet/updateBooks.java</file>
+            <file>file:/D:/PRJ301/BookStore/web/ManageAccounts.jsp</file>
+            <file>file:/D:/PRJ301/BookStore/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
